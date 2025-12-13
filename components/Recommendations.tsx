@@ -4,14 +4,14 @@ import React, { useState } from 'react'
 
 const recommendations = [
   {
-    text: "John is an exceptional QA Automation Engineer who consistently delivers high-quality test automation solutions. His expertise in Playwright and Cypress has significantly improved our testing efficiency. He's a great team player and always willing to share knowledge.",
-    author: "Sarah Johnson",
-    role: "Engineering Manager at ABC Tech Solutions"
+    text: "Noah’s drive and dedication to mastering automation have been nothing short of impressive. When our team transitioned from Katalon to Cypress as the standard for Shopify automation, Noah embraced the change with enthusiasm. Through independent research and initiative, he developed automation scripts from scratch, presented his work to the team, and proactively refined the code based on feedback—ensuring both efficiency and compliance with coding standards.",
+    // author: "n/a",
+    role: "Former Software QA Lead"
   },
   {
-    text: "Working with John has been a pleasure. His attention to detail and systematic approach to test automation has helped us catch critical bugs early in the development cycle. He's proactive, reliable, and always goes the extra mile.",
-    author: "Michael Chen",
-    role: "Senior Developer at ABC Tech Solutions"
+    text: "Noah's proactiveness, knowledge and experiences in testing is truly recommendable. He is always willing to provide help and always meet the expectations of stakeholders.",
+    // author: "Michael Chen",
+    role: "Former QA Team Lead"
   },
   {
     text: "John's expertise in CI/CD integration and test automation frameworks has been invaluable to our team. He's not just a tester, but a quality advocate who ensures we deliver the best possible software to our users.",

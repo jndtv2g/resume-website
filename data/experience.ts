@@ -29,9 +29,9 @@ export const experienceList = [
     year: "2021",
     period: "November 2021 – March 2022",
     details: [
-      "Executed test cases for web applications and documented results.",
-      "Participated in Agile sprint planning and daily standups.",
-      "Learned fundamentals of software testing and quality assurance."
+      "Handled QA activities for multiple FSCM modules, performing functional, exploratory, regression, smoke, and end-to-end testing",
+      "Developed and maintained automated test scripts using Katalon Studio and validated backend data using SQL.",
+      "Coordinated defect resolution with development and business teams and supported user acceptance testing and test planning activities."
     ]
   },
   {
