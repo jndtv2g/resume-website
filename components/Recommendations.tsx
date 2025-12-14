@@ -10,7 +10,7 @@ const recommendations = [
   },
   {
     text: "Noah's proactiveness, knowledge and experiences in testing is truly recommendable. He is always willing to provide help and always meet the expectations of stakeholders.",
-    // author: "Michael Chen",
+    // author: "n/a",
     role: "Former QA Team Lead"
   }
 ];
