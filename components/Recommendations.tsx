@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 
 const recommendations = [
   {
-    text: "Noah’s drive and dedication to mastering automation have been nothing short of impressive. When our team transitioned from Katalon to Cypress as the standard for Shopify automation, Noah embraced the change with enthusiasm. Through independent research and initiative, he developed automation scripts from scratch, presented his work to the team, and proactively refined the code based on feedback—ensuring both efficiency and compliance with coding standards.",
+    text: "Noah's drive and dedication to mastering automation have been nothing short of impressive. When our team transitioned from Katalon to Cypress as the standard for Shopify automation, Noah embraced the change with enthusiasm. Through independent research and initiative, he developed automation scripts from scratch, presented his work to the team, and proactively refined the code based on feedback—ensuring both efficiency and compliance with coding standards.",
     // author: "n/a",
     role: "Former Software QA Lead"
   },
@@ -40,11 +40,11 @@ export default function Recommendations() {
         )}
       </div>
       <div className="space-y-4">
-        {displayedRecommendations.map(({ text, author, role }, idx) => (
+        {displayedRecommendations.map(({ text, role }, idx) => (
           <div key={idx} className="border-l-4 border-gray-300 pl-3 py-1">
             <p className="text-sm text-gray-700 italic mb-2">"{text}"</p>
             <div>
-              <p className="text-xs font-semibold text-gray-900">{author}</p>
+              {/* <p className="text-xs font-semibold text-gray-900">{author}</p> */}
               <p className="text-xs text-gray-600">{role}</p>
             </div>
           </div>
