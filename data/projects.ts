@@ -1,7 +1,7 @@
 export const projectsList = [
   {
     name: "API Automation Testing Suite",
-    description: "Created comprehensive API test suites in C# with Azure DevOps for continuous testing.",
+    description: "Created comprehensive API test suites in C# with Azure DevOps for continuous testing for a cloud-based software platform.",
     link: "#",
     tags: ["C#", "Azure DevOps", "API", "GitHub Desktop", "CI/CD"]
   },
