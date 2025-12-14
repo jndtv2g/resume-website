@@ -15,21 +15,21 @@ export default function ProjectsPage() {
       </div>
       
       <div className="space-y-6">
-        {projectsList.map(({ name, description, link, tags }, index) => (
+        {projectsList.map(({ name, description, tags }, index) => (
           <div 
             key={name} 
             className="border border-gray-200 rounded-lg p-5 hover:border-gray-300 transition-colors animate-fade-in"
             style={{ animationDelay: `${index * 0.1}s` }}
           >
             <h2 className="text-xl font-bold mb-2">
-              <a 
+              {/* <a 
                 href={link} 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-900 hover:text-gray-700 transition-colors"
               >
                 {name}
-              </a>
+              </a> */}
             </h2>
             <p className="text-base text-gray-700 mb-3">{description}</p>
             <div className="flex flex-wrap gap-2">
