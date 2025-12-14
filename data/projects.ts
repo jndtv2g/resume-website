@@ -6,6 +6,12 @@ export const projectsList = [
     tags: ["C#", "Azure DevOps", "API", "GitHub Desktop", "CI/CD"]
   },
   {
+    name: "iOS XCUI Testing Suite",
+    description: "Developed an iOS automation testing suite using XCUI for a wellness/healthcare application.",
+    link: "#",
+    tags: ["XCode", "XCUI", "Gitlab", "SourceTree"]
+  },
+  {
     name: "Sanity Test Automation Framework",
     description: "Built a reusable automation framework using Cypress that focuses on sanity testing for an e-commerce platform",
     link: "#",

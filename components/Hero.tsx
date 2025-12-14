@@ -21,7 +21,7 @@ export default function Hero() {
           Metro Manila, Philippines
         </p>
         <p className="text-base md:text-lg text-gray-700 mb-3">
-          Senior QA Engineer
+          QA Engineer
         </p>
         
         <div className="flex flex-wrap justify-center md:justify-start gap-2 mb-3">

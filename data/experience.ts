@@ -44,6 +44,15 @@ export const experienceList = [
       "Participated in Agile sprint planning and daily standups.",
       "Learned fundamentals of software testing and quality assurance."
     ]
+  },
+  {
+    role: "BS in Information Technology 🎓",
+    company: "Philippine Cultural College",
+    year: "2019",
+    period: "June 2015 – April 2019",
+    details: [
+      //
+    ]
   }
 ];
 

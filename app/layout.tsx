@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Noah Vitug - Senior QA Engineer",
+  title: "Noah Vitug - QA Engineer",
   description: "QA Automation Engineer specializing in test automation frameworks, API testing, and continuous integration. Building quality software through automation and precision.",
 };
 
