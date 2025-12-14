@@ -24,9 +24,9 @@ const certifications = [
     year: "2022"
   },
   {
-    name: "Agile Testing",
+    name: "Learn Manual software Testing + Agile with Jira Tool",
     issuer: "Udemy",
-    year: "2020"
+    year: "2024"
   }
 ];
 

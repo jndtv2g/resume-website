@@ -12,11 +12,6 @@ const recommendations = [
     text: "Noah's proactiveness, knowledge and experiences in testing is truly recommendable. He is always willing to provide help and always meet the expectations of stakeholders.",
     // author: "Michael Chen",
     role: "Former QA Team Lead"
-  },
-  {
-    text: "John's expertise in CI/CD integration and test automation frameworks has been invaluable to our team. He's not just a tester, but a quality advocate who ensures we deliver the best possible software to our users.",
-    author: "Emily Rodriguez",
-    role: "Product Manager at XYZ Corp"
   }
 ];
 

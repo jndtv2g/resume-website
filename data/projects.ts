@@ -21,12 +21,12 @@ export const projectsList = [
     name: "E2E Test Automation",
     description: "Developed end-to-end test automation scripts using Java and Selenium for web and mobile ERP applications.",
     link: "#",
-    tags: ["Java", "Selenium", "Gitlab", "CI/CD"]
+    tags: ["Java", "Selenium", "Appium", "Gitlab", "CI/CD"]
   },
   {
     name: "Automation Regression Test Suite",
     description: "Spearheaded automation regression testing suite for an e-commerce website.",
     link: "#",
-    tags: ["Katalon Studio", "Bitbucket", "SourceTree", "CI/CD"]
+    tags: ["Katalon Studio", "Bitbucket", "SourceTree"]
   }
 ];
