@@ -24,12 +24,12 @@ export default function Projects() {
         )}
       </div>
       <div className="space-y-4">
-        {projectsList.slice(0, INITIAL_PROJECTS).map(({ name, description, link, tags }) => (
+        {projectsList.slice(0, INITIAL_PROJECTS).map(({ name, description, tags }) => (
           <div key={name} className="border border-gray-200 rounded-lg p-3 hover:border-gray-300 transition-colors">
             <h3 className="text-base font-bold mb-1">
-              <a href={link} target="_blank" rel="noopener noreferrer" className="text-gray-900 hover:text-gray-700 transition-colors">
+              {/* <a href={link} target="_blank" rel="noopener noreferrer" className="text-gray-900 hover:text-gray-700 transition-colors">
                 {name}
-              </a>
+              </a> */}
             </h3>
             <p className="text-sm text-gray-700 mb-2">{description}</p>
             <div className="flex flex-wrap gap-1">
