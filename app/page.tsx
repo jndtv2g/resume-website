@@ -20,7 +20,7 @@ export default function Page() {
           <Projects />
         </div>
         <div className="md:col-span-1 space-y-4">
-          <Experience />
+          {/* <Experience /> */}
         </div>
         <Certifications />
         <Recommendations />
