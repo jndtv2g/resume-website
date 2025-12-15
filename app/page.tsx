@@ -1,6 +1,6 @@
 import Hero from "../components/Hero";
 import About from "../components/About";
-// import Experience from "../components/Experience";
+import Experience from "../components/Experience";
 import TechStack from "../components/TechStack";
 import Projects from "../components/Projects";
 import Certifications from "../components/Certifications";
@@ -20,7 +20,7 @@ export default function Page() {
           <Projects />
         </div>
         <div className="md:col-span-1 space-y-4">
-          {/* <Experience /> */}
+          <Experience />
         </div>
         <Certifications />
         <Recommendations />

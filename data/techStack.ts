@@ -6,7 +6,7 @@ export const techStack = {
   "Testing Methodologies": ["Functional Testing", "Automation Testing", "Regression Testing", "End-to-End Testing", "Exploratory Testing", "Sanity/Smoke Testing", "Accessibility Testing"],
   "Test Management": ["TestRail", "Zephyr", "BrowserStack", "Qase.io", "Azure DevOps"],
   "Defect Management": ["Jira", "ClickUp", "Azure DevOps"],
-  "Debugging & Monitoring Tools": ["Fiddler", "Sumo Logic", "Screencopy", "Vysor", "Laravel Telescope", "Postman"],
+  "Debugging & Monitoring Tools": ["Fiddler", "Sumo Logic", "Screencopy", "Vysor", "Laravel Telescope", "Postman", "JackDB"],
   "Software Dev Methodologies": ["Agile", "Waterfall"],
   "Documentation": ["Confluence", "Guru", "Coda", 'Figma'],
   "Collaboration Tools": ["Slack", "Microsoft Teams", "Zoom", "Google Meet"]

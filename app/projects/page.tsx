@@ -15,7 +15,7 @@ export default function ProjectsPage() {
       </div>
       
       <div className="space-y-6">
-        {projectsList.map(({ name, description, link, tags }, index) => (
+        {projectsList.map(({ name, description, tags }, index) => (
           <div 
             key={name} 
             className="border border-gray-200 rounded-lg p-5 hover:border-gray-300 transition-colors animate-fade-in"
@@ -23,7 +23,7 @@ export default function ProjectsPage() {
           >
             <h2 className="text-xl font-bold mb-2">
               <a 
-                href={link} 
+                // href={link} 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-900 hover:text-gray-700 transition-colors"

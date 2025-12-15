@@ -12,7 +12,7 @@ export default function Projects() {
           <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path>
           </svg>
-          <h2 className="text-lg font-bold">Projects</h2>
+          <h2 className="text-lg font-bold">Recent Projects</h2>
         </div>
         {projectsList.length > INITIAL_PROJECTS && (
           <Link
@@ -24,10 +24,10 @@ export default function Projects() {
         )}
       </div>
       <div className="space-y-4">
-        {projectsList.slice(0, INITIAL_PROJECTS).map(({ name, description, link, tags }) => (
+        {projectsList.slice(0, INITIAL_PROJECTS).map(({ name, description, tags }) => (
           <div key={name} className="border border-gray-200 rounded-lg p-3 hover:border-gray-300 transition-colors">
             <h3 className="text-base font-bold mb-1">
-              <a href={link} target="_blank" rel="noopener noreferrer" className="text-gray-900 hover:text-gray-700 transition-colors">
+              <a target="_blank" rel="noopener noreferrer" className="text-gray-900 hover:text-gray-700 transition-colors">
                 {name}
               </a>
             </h3>
