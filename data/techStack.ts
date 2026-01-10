@@ -1,5 +1,5 @@
 export const techStack = {
-  "Testing Frameworks": ["Katalon Studio", "Cypress", "Selenium", "XCUI"],
+  "Testing Frameworks": ["Katalon Studio", "Cypress", "Playwright", "Selenium", "XCUI"],
   "Programming": ["JavaScript", "C#", "Java", "Swift", "Groovy"],
   "Automation Tools": ["Visual Studio", "Visual Studio Code", "Eclipse", "XCode", "MS SQL Server", "Oracle SQL Developer", "MySQL"],
   "Version Control & CI/CD": ["Github Desktop", "SourceTree", "Gitlab", "Bitbucket", "Azure DevOps"],
