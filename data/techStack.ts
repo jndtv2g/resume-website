@@ -1,6 +1,6 @@
 export const techStack = {
   "Testing Frameworks": ["Katalon Studio", "Cypress", "Playwright", "Selenium", "XCUI"],
-  "Programming": ["JavaScript", "C#", "Java", "Swift", "Groovy"],
+  "Programming": ["JavaScript", "C#", "TypeScript", "Java", "Swift", "Groovy"],
   "Testing Tools": ["Visual Studio", "Visual Studio Code", "Eclipse", "XCode", "Postman", "JMeter", "Grafana K6","MS SQL Server", "Oracle SQL Developer", "MySQL"],
   "Version Control & CI/CD": ["Github Desktop", "SourceTree", "Gitlab", "Bitbucket", "Azure DevOps"],
   "Testing Methodologies": ["Automation Testing", "Functional Testing", "Performance Testing", "Regression Testing", "End-to-End Testing", "Exploratory Testing", "Sanity/Smoke Testing", "Accessibility Testing", "Gherkin"],
