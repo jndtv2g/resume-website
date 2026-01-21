@@ -1,14 +1,17 @@
 export const techStack = {
-  "Testing Frameworks": ["Katalon Studio", "Cypress", "Playwright", "Selenium", "XCUI"],
-  "Programming": ["JavaScript", "C#", "TypeScript", "Java", "Swift", "Groovy"],
-  "Testing Tools": ["Visual Studio", "Visual Studio Code", "Eclipse", "XCode", "Postman", "JMeter", "Grafana K6","MS SQL Server", "Oracle SQL Developer", "MySQL"],
+  "Testing Frameworks": ["Katalon Studio", "Cypress", "Selenium", "XCUI"],
+  "Programming (Automation)": ["JavaScript", "C#", "Java", "Swift"],
+  "Automation Tools": ["Visual Studio", "Visual Studio Code", "Eclipse", "XCode", "MS SQL Server", "Oracle SQL Developer", "MySQL"],
   "Version Control & CI/CD": ["Github Desktop", "SourceTree", "Gitlab", "Bitbucket", "Azure DevOps"],
-  "Testing Methodologies": ["Automation Testing", "Functional Testing", "Performance Testing", "Regression Testing", "End-to-End Testing", "Exploratory Testing", "Sanity/Smoke Testing", "Accessibility Testing", "Gherkin"],
+  "AI Tools & Technologies": ["OpenAI", "ChatGPT", "Claude", "Gemini", "Cursor", "GitHub Copilot", "Amazon Q", "Kiro"],
+  "Testing Methodologies": ["Functional Testing", "Automation Testing", "Regression Testing", "End-to-End Testing", "Exploratory Testing", "Sanity/Smoke Testing", "Accessibility Testing", "Gherkin"],
   "Test Management": ["TestRail", "Zephyr", "BrowserStack", "Qase.io", "Azure DevOps"],
   "Defect Management": ["Jira", "ClickUp", "Azure DevOps"],
-  "Debugging & Monitoring Tools": ["Fiddler", "Sumo Logic", "Screencopy", "Vysor", "Laravel Telescope", "Postman", "JackDB"],
+  "Debugging & Monitoring Tools": ["Fiddler", "Sumo Logic", "Screencopy", "Vysor", "Laravel Telescope", "Postman"],
+  "Backend Platforms Tested": ["Node.js", "PHP"],
+  "Frontend Frameworks Tested": ["React", "Next.js", "Angular", "Vue.js", "Bootstrap", "Tailwind CSS", "HTML", "CSS"],
+  "Infrastructures Tested": ["AWS", "Azure"],
   "Software Dev Methodologies": ["Agile", "Waterfall"],
   "Documentation": ["Confluence", "Guru", "Coda", 'Figma'],
   "Collaboration Tools": ["Slack", "Microsoft Teams", "Zoom", "Google Meet"]
 };
-
