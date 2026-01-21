@@ -15,4 +15,3 @@ export const techStack = {
   "Documentation": ["Confluence", "Guru", "Coda", 'Figma'],
   "Collaboration Tools": ["Slack", "Microsoft Teams", "Zoom", "Google Meet"]
 };
-
