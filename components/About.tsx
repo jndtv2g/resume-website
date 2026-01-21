@@ -10,7 +10,7 @@ export default function About() {
         <h2 className="text-lg font-bold">About</h2>
       </div>
       <p className="text-sm text-gray-700 leading-relaxed">
-      I am a QA Engineer with over five years of experience delivering high-quality software across ERP, e-commerce, and SaaS platforms. I specialize in functional, regression, integration, and automation testing, with a strong focus on building reliable and maintainable test suites. <br/><br/>
+      I am a QA Engineer with over 6 years of experience delivering high-quality software across ERP, e-commerce, and SaaS platforms. I specialize in functional, regression, integration, and automation testing, with a strong focus on building reliable and maintainable test suites. <br/><br/>
       I have developed automation frameworks using Katalon Studio, Cypress, and Selenium with Page Object Model implementation, and built API test suites in C# integrated with Azure DevOps for API automation testing. I work closely with developers, product managers, and stakeholders in Agile environments, and I actively support and mentor fellow QAs. 
       <br/><br/>
       Recently, I have been exploring how AI can be applied to modern testing practices. My focus has been on using AI-assisted tools to improve test design, accelerate test case creation, and enhance overall test coverage. I am particularly interested in how AI can support smarter automation, faster feedback loops, and more efficient quality assurance workflows.
